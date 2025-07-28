@@ -18,3 +18,5 @@ plugins:
   - jekyll-sitemap
 
 hide_site_feed_link: true
+
+show_excerpts: true
