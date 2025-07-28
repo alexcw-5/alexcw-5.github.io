@@ -3,7 +3,7 @@
 remote_theme: "jekyll/minima@1fe0fbf"
 
 title: Miscellaneous Thoughts
-description: "A collection of random thoughts and ideas."
+description: "A collection of random thoughts and ideas, both personal and academic."
 baseurl: ""
 markdown: kramdown
 author:
