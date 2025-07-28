@@ -2,12 +2,12 @@
 
 remote_theme: "jekyll/minima@1fe0fbf"
 
-title: Alex Caceres-Wright
+title: Miscillaneous Notes
 baseurl: ""
 markdown: kramdown
 author:
-  email: "acacereswright@gmail.com"
-  telephone: +1 (212) 518-4269
+  email: ""
+  telephone: +1 (917) 830-5189
 
 minima:
   skin: solarized
@@ -16,3 +16,5 @@ plugins:
   - jekyll-feed
   - jekyll-remote-theme
   - jekyll-sitemap
+
+hide_site_feed_link: true
