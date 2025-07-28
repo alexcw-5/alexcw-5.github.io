@@ -2,7 +2,7 @@
 
 remote_theme: "jekyll/minima@1fe0fbf"
 
-title: Miscillaneous Notes
+title: Miscellaneous Notes
 baseurl: ""
 markdown: kramdown
 author:
