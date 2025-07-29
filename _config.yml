@@ -12,12 +12,11 @@ author:
 
 minima:
   skin: solarized
+  hide_site_feed_link: true
+  show_excerpts: true
 
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
   - jekyll-sitemap
 
-hide_site_feed_link: true
-
-show_excerpts: true
