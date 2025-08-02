@@ -1,4 +1,4 @@
-name: Daily Jekyll Rebuild
+name: Publish blog posts
 on:
   schedule:
     - cron: '0 5 * * *'
