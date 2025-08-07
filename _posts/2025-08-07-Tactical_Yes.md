@@ -1,10 +1,8 @@
 ---
 layout: post
-title: What is a Tactical Yes?
+title: What to say yes when you're unsure of it
 categories: Logistics
 ---
-
-I've been toying with what to call this concept in my head for a while. Its hard to describe and harder to sum up in two words, but I think a tactical yes is a good way to put it.
 
 I'm not saying to blindly say yes to everything. First, I guarantee that there are many things that you will not want to do for whatever reason and it is totally valid to say no to those things. But I think there is a category of things that you want to say yes to, but hesitate for any number of reasons. I posit that in these cases you should say yes, you never know the outcome. If you get bored or decide that you don't wnt to be there then it is always possible to leave early, but if it goes well then you have a good memory which you can cherish forever.  
 
