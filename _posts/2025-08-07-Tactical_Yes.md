@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What to say yes when you're unsure of it
+title: When to say yes when you're unsure if you want to
 categories: Logistics
 ---
 
