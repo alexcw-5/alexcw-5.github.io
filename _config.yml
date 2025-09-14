@@ -20,3 +20,5 @@ plugins:
   - jekyll-remote-theme
   - jekyll-sitemap
 
+#Google Analytics ID
+google_analytics: G-1WQHC00V6K
