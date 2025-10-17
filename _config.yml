@@ -22,11 +22,3 @@ plugins:
 
 #Google Analytics ID
 google_analytics: G-1WQHC00V6K
-
-collections:
-  thoughts:
-    output: true
-    permalink: /thoughts/:title/
-  photos:
-    output: true
-    permalink: /photos/:title/
