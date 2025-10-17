@@ -2,7 +2,7 @@
 layout: post
 title: My first week in Buffalo
 categories: 
-    - Life
+    - Personal
 ---
 
 Today marks one week since I got to Buffalo to start my PhD in Computer Science. It's been a fairly busy week so far with having to set up my apartment, space in the lab, and assorted orientation activities. 

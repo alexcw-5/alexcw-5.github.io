@@ -2,8 +2,7 @@
 layout: post
 title: What does it mean to be "Research Smart"?
 categories:
-    - Academia
-    - PhD
+    - General Academia
 ---
 
 At least in the United States many students are taught very early on (usually elementary school age) about the various types of "smart" there are. Usually these include things like:

@@ -2,7 +2,7 @@
 layout: post
 title: The first week of my PhD Program
 categories:
-    - Academia
+    - General Academia
     - PhD
 ---
 
