@@ -20,5 +20,13 @@ plugins:
   - jekyll-remote-theme
   - jekyll-sitemap
 
+categories:
+  - Life
+  - Travel
+  - PhD
+  - Personal
+  - Photography
+  - academia
+
 #Google Analytics ID
 google_analytics: G-1WQHC00V6K
