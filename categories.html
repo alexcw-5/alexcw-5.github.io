@@ -1,12 +1,13 @@
 ---
 layout: page  # or whatever layout your other pages use (page, post, etc.)
-title: Categories
+title: Posts by Category
 permalink: /categories/
 ---
 <div class="category-filter">
-  <h1>Browse by Category</h1>
   
   {% assign all_categories = site.categories | sort %}
+
+  Please note that some posts may appear in multiple categories.
   
   <div class="category-list">
     {% for category in all_categories %}
