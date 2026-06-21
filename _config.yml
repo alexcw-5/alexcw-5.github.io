@@ -10,6 +10,7 @@ author:
   email: "alex@kiskeya.net"
   phone: +1 (917) 830-5189
 
+remote_theme: jekyll/minima@d7122a0
 minima:
   skin: solarized
   hide_site_feed_link: true
