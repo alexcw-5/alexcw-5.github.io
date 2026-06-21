@@ -1,3 +1,8 @@
+.feed-subscribe,
+a[href$="feed.xml"] {
+  display: none;
+}
+
 .photo-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
