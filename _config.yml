@@ -15,10 +15,10 @@ minima:
   skin: solarized
   hide_site_feed_link: true
   show_excerpts: true
-  header_pages:
-    - index.md
-    - categories.html
-    - Quotes.md
+header_pages:
+  - index.md
+  - categories.html
+  - Quotes.md
 
 plugins:
   - jekyll-feed
