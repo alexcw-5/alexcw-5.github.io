@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Assorted Quotes
-order: 3
 ---
 
 This page serves as a running list of quotes I've found funny/interesting/worth preserving. I'll attribute them as best as possible.
